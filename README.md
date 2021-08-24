@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and mobile applications
 - 🌱 I’m currently learning computer science
 - 📫 How to reach me:
-whatsapp:+966565603434
+whatsapp:+966565603434 <br/>
 twitter: @OmrKhF
 snap: omarkhan.12
 
