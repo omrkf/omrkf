@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @omrkf
 - 👀 I’m interested in web and mobile applications
 - 🌱 I’m currently learning computer science
-- 📫 How to reach me:
+- 📫 How to reach me: <br/>
 whatsapp:+966565603434 <br/>
-twitter: @OmrKhF
+twitter: @OmarKhanProg <br/>
 snap: omarkhan.12
 
 <!---
